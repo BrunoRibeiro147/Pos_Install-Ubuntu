@@ -1,4 +1,4 @@
-#Pos Install Ubuntu
+# Pos Install Ubuntu
 
 
 Shell Script para instalação de Programas Básicos após a instalação do Linux.
@@ -38,6 +38,10 @@ Shell executado com sucesso no Ubuntu 18.04 LTS.
 Sinta-se a vontade de fazer um Fork e personalizar para suas necessidades.
 
 
-<div style="text-align: right"> <i>God is Beyond Eveything</i> </div>
+
+
+
+
+<div style="text-align: right"><i>God is Beyond Eveything</i></div>
 
 
